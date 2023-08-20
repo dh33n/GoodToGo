@@ -1,0 +1,25 @@
+#b1
+{
+   color: #ffe484;
+   border: #ffe484 2px solid;
+   background: transparent;
+}
+#b1:hover
+{
+    background-color: #ffe484;
+    color: #7952b3;
+}
+#b1:active
+{
+
+}
+#howitworks
+{
+    background-color: #7952b3;
+    color: white;
+}
+#aboutus
+{
+    background-color: #7952b3;
+    color: white; 
+}
